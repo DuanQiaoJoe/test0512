@@ -1,0 +1,15 @@
+div{
+	width:300px;
+	heieght:300px;
+	border:#000 solid 1px;
+	margin:50px auto;
+	overflow:hidden;
+	
+	}
+	img{
+	cursor: pointer;
+	transition: all 0.6s;
+       }
+div img:hover{
+	transition: scale(1.4);
+}
